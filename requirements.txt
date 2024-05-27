@@ -1,0 +1,11 @@
+torch
+scikit-learn
+pandas
+datasets
+gdown
+ragatouille
+colbert-ai
+django 
+celery 
+redis 
+python-dotenv 

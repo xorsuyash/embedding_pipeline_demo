@@ -1,0 +1,4 @@
+FROM 3.11.7
+
+WORKDIR /app
+

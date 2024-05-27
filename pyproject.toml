@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "poetry add -d -v $(cat requirements.txt)"
+version = "poetry lock"
+description = ""
+authors = ["GautamR <gautam@samagragovernance.in>"]
+readme = "README.md"
+packages = [{include = "poetry add _d _v $(cat requirements"}]/home/ubuntu/demo/autotune_retriever/autotune_retriver
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
